@@ -1,0 +1,4 @@
+https://mangoyi.github.io/test/water.html              //github托管的瀑布流布局的网页
+https://mangoyi.github.io/XingLang-Blog/               //git hub托管的毕业设计网页
+http://www.cnblogs.com/lijiayi/p/githubpages.html    //瀑布流的网页推送的教程 
+
