@@ -128,6 +128,4 @@ function checkScrollSlide() {
 	// console.log(scrollTop + height); 这个值是一直在发生变化的。
 	return lastBoxH <= (scrollTop + height) ? true : false;
 
-
-
 }
